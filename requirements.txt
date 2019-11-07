@@ -1,0 +1,10 @@
+numpy
+pandas
+scipy
+Python.display
+plotly
+plotly.figure_factory
+plotly.graph_objects
+IPython.core.display
+plotly.subplots
+IPython.display
