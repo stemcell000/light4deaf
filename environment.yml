@@ -1,0 +1,14 @@
+channels:
+  - conda-forge
+
+dependencies:
+  - numpy
+  - plotly
+  - pandas
+  - scipy
+  - IPython.display
+  - plotly.figure_factory
+  - plotly.graph_objects
+  - IPython.core.display
+  - plotly.subplots
+  - voila
