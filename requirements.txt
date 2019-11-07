@@ -1,0 +1,8 @@
+numpy
+pandas
+scipy
+IPython
+plotly
+plotly.figure_factory
+plotly.graph_objects
+plotly.subplots
